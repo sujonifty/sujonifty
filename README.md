@@ -1,13 +1,73 @@
-  <div style="background-image: url('https://i.ibb.co/wNwH02P/banner.webp'); background-size: cover; background-position: center; padding: 50px; text-align: center; color: white;">
-        <img src="https://i.ibb.co/G35DTM4/Md-Sujon.png" alt="Profile Image" style="width: 150px; height: 150px; border-radius: 50%; border: 5px solid white;">
-        <h1 style="margin-top: 20px;">Md. Sujon Ali</h1>
+
+
+    <div style="
+        width: 300px;
+        padding: 20px;
+        background-color: white;
+        border-radius: 10px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        text-align: center;
+        font-family: Arial, sans-serif;
+        position: relative;
+        overflow: hidden;
+    ">
+        <div style="
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: url('https://i.ibb.co/wNwH02P/banner.webp') no-repeat center center/cover;
+            opacity: 0.3;
+            z-index: -1;
+        "></div>
+        <img src="https://i.ibb.co/G35DTM4/Md-Sujon.png" alt="Profile Image" style="
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            margin-bottom: 10px;
+            border: 3px solid white;
+        ">
+        <h2>Md. Sujon Ali</h2>
         <p>Web Developer</p>
-        <div style="margin-top: 20px;">
-            <span style="background: rgba(0, 0, 0, 0.5); padding: 5px 10px; border-radius: 5px; margin: 5px; display: inline-block;">HTML</span>
-            <span style="background: rgba(0, 0, 0, 0.5); padding: 5px 10px; border-radius: 5px; margin: 5px; display: inline-block;">CSS</span>
-            <span style="background: rgba(0, 0, 0, 0.5); padding: 5px 10px; border-radius: 5px; margin: 5px; display: inline-block;">JavaScript</span>
-            <span style="background: rgba(0, 0, 0, 0.5); padding: 5px 10px; border-radius: 5px; margin: 5px; display: inline-block;">React</span>
-            <span style="background: rgba(0, 0, 0, 0.5); padding: 5px 10px; border-radius: 5px; margin: 5px; display: inline-block;">Node.js</span>
+        <div style="margin-top: 10px;">
+            <span style="
+                display: inline-block;
+                background-color: #007BFF;
+                color: white;
+                padding: 5px 10px;
+                border-radius: 20px;
+                margin: 5px 2px;
+                font-size: 12px;
+            ">HTML</span>
+            <span style="
+                display: inline-block;
+                background-color: #007BFF;
+                color: white;
+                padding: 5px 10px;
+                border-radius: 20px;
+                margin: 5px 2px;
+                font-size: 12px;
+            ">CSS</span>
+            <span style="
+                display: inline-block;
+                background-color: #007BFF;
+                color: white;
+                padding: 5px 10px;
+                border-radius: 20px;
+                margin: 5px 2px;
+                font-size: 12px;
+            ">JavaScript</span>
+            <span style="
+                display: inline-block;
+                background-color: #007BFF;
+                color: white;
+                padding: 5px 10px;
+                border-radius: 20px;
+                margin: 5px 2px;
+                font-size: 12px;
+            ">React</span>
         </div>
     </div>
 

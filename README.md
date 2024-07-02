@@ -1,4 +1,6 @@
-## Hi there 👋
+
+# About Me
+Hi, I am Md. Sujon Ali, a passionate software developer from Savar, Dhaka. I specialize in developing robust and scalable web applications. I am always eager to learn new technologies and improve my skills. Let's build something amazing together!
 
 <!--
 **sujonifty/sujonifty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

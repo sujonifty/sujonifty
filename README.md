@@ -1,3 +1,16 @@
+  <div style="background-image: url('background.jpg'); background-size: cover; background-position: center; padding: 50px; text-align: center; color: white;">
+        <img src="profile.jpg" alt="Profile Image" style="width: 150px; height: 150px; border-radius: 50%; border: 5px solid white;">
+        <h1 style="margin-top: 20px;">Md. Sujon Ali</h1>
+        <p>Web Developer</p>
+        <div style="margin-top: 20px;">
+            <span style="background: rgba(0, 0, 0, 0.5); padding: 5px 10px; border-radius: 5px; margin: 5px; display: inline-block;">HTML</span>
+            <span style="background: rgba(0, 0, 0, 0.5); padding: 5px 10px; border-radius: 5px; margin: 5px; display: inline-block;">CSS</span>
+            <span style="background: rgba(0, 0, 0, 0.5); padding: 5px 10px; border-radius: 5px; margin: 5px; display: inline-block;">JavaScript</span>
+            <span style="background: rgba(0, 0, 0, 0.5); padding: 5px 10px; border-radius: 5px; margin: 5px; display: inline-block;">React</span>
+            <span style="background: rgba(0, 0, 0, 0.5); padding: 5px 10px; border-radius: 5px; margin: 5px; display: inline-block;">Node.js</span>
+        </div>
+    </div>
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sujon
 =============================================================================================================================
 

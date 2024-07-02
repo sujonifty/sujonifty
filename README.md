@@ -14,9 +14,9 @@ I am a junior web developer skilled in HTML5, CSS3, Tailwind, JavaScript, ES6, a
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujonifty)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Current overview
- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
+ <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+## Current overview
 - 🔭 I’m currently working on FitLab (current project). 
 - 🌱 I’m currently learning Next.Js 
 - 👯 I’m looking to collaborate on GitHub. 

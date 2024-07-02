@@ -30,8 +30,6 @@ I am a junior web developer skilled in HTML5, CSS3, Tailwind, JavaScript, ES6, a
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujonifty&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/sujonifty)  
  
 ## Current Stats
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=sujonifty) 

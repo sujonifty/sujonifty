@@ -15,12 +15,13 @@ I am a junior web developer skilled in HTML5, CSS3, Tailwind, JavaScript, ES6, a
 
 
 ## Current overview
+ <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+
 - 🔭 I’m currently working on FitLab (current project). 
 - 🌱 I’m currently learning Next.Js 
 - 👯 I’m looking to collaborate on GitHub. 
 - 💬 Ask me about Web development.
 - ✉️  You can contact me at [sujonifty@gmail.com](mailto:sujonifty@gmail.com)
- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 ## ☕ Connect with me!
 [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/sujonifty.2825)   [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/sujonifty/) [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sujonifty)  

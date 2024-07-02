@@ -1,107 +1,30 @@
+### Hi there 👋, my name is Md. Sujon Ali.
+#### I am a junior web developer.
+![I am a junior web developer.](https://i.ibb.co/bdn0SjX/frontend-developer.png)
 
+I am a junior web developer skilled in HTML5, CSS3, Tailwind, JavaScript, ES6, and React.Js. I am known for my quick learning, problem-solving skills, and disciplined work ethic. I create user-friendly websites that meet users' needs. I stay updated on trends and work with others to make innovative solutions.
 
-    <div style="
-        width: 300px;
-        padding: 20px;
-        background-color: white;
-        border-radius: 10px;
-        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-        text-align: center;
-        font-family: Arial, sans-serif;
-        position: relative;
-        overflow: hidden;
-    ">
-        <div style="
-            content: '';
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: url('https://i.ibb.co/wNwH02P/banner.webp') no-repeat center center/cover;
-            opacity: 0.3;
-            z-index: -1;
-        "></div>
-        <img src="https://i.ibb.co/G35DTM4/Md-Sujon.png" alt="Profile Image" style="
-            width: 100px;
-            height: 100px;
-            border-radius: 50%;
-            margin-bottom: 10px;
-            border: 3px solid white;
-        ">
-        <h2>Md. Sujon Ali</h2>
-        <p>Web Developer</p>
-        <div style="margin-top: 10px;">
-            <span style="
-                display: inline-block;
-                background-color: #007BFF;
-                color: white;
-                padding: 5px 10px;
-                border-radius: 20px;
-                margin: 5px 2px;
-                font-size: 12px;
-            ">HTML</span>
-            <span style="
-                display: inline-block;
-                background-color: #007BFF;
-                color: white;
-                padding: 5px 10px;
-                border-radius: 20px;
-                margin: 5px 2px;
-                font-size: 12px;
-            ">CSS</span>
-            <span style="
-                display: inline-block;
-                background-color: #007BFF;
-                color: white;
-                padding: 5px 10px;
-                border-radius: 20px;
-                margin: 5px 2px;
-                font-size: 12px;
-            ">JavaScript</span>
-            <span style="
-                display: inline-block;
-                background-color: #007BFF;
-                color: white;
-                padding: 5px 10px;
-                border-radius: 20px;
-                margin: 5px 2px;
-                font-size: 12px;
-            ">React</span>
-        </div>
-    </div>
+Skills: React.Js | Next.Js | Express.Js | MongoDB | Node.Js | Firebase | JavaScript | HTML | CSS | Tailwind |
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sujon
-=============================================================================================================================
-
-React Developer.
-----------------
-
-A junior web developer who is a deeply passionate and adaptable developer with a strong foundation in HTML5, CSS3, Tailwind, JavaScript, ES6 & React.Js.
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-* 🌍  I'm based in Bangladesh
-* ✉️  You can contact me at [sujonifty@gmail.com](mailto:sujonifty@gmail.com)
-* 🧠  I'm learning Next.js
 
-<a href="https://www.github.com/https://github.com/sujonifty" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/https://github.com/sujonifty?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
-
-### Skills
+- 🔭 I’m currently working on FitLab (current project). 
+- 🌱 I’m currently learning Next.Js 
+- 👯 I’m looking to collaborate on GitHub. 
+- 💬 Ask me about Web development. 
 
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://chakra-ui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/chakra-colored.svg" width="36" height="36" alt="Chakra UI" /></a><a href="https://mui.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg" width="36" height="36" alt="Material UI" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
-</p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sujonifty)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sujonifty/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sujonifty.2825)  
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=sujonifty)](https://github.com/ryo-ma/github-profile-trophy)
 
-### Socials
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujonifty)](https://github.com/anuraghazra/github-readme-stats)
 
-<p align="left"> <a href="https://www.facebook.com/sujonifty.2825/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /> </picture> </a> <a href="https://www.github.com/https://github.com/sujonifty" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/sujonifty/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujonifty&show_icons=true&count_private=true)  
 
-### Badges
+![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/sujonifty/contributions?format=svg&private=true)  
 
-<a href="https://github.com/https://github.com/sujonifty" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/sujonifty&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+![GitHub metrics](https://metrics.lecoq.io/sujonifty)  
 
-<b>Top Repositories</b>
+![GitHub streak stats](https://streak-stats.demolab.com/?user=sujonifty)  
 
-<div width="100%" align="center"><a href="https://github.com/https://github.com/sujonifty/fitLab-fitness-tracker" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=https://github.com/sujonifty&repo=fitLab-fitness-tracker&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />

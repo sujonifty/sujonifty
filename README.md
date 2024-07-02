@@ -1,5 +1,5 @@
   <div style="background-image: url('https://i.ibb.co/wNwH02P/banner.webp'); background-size: cover; background-position: center; padding: 50px; text-align: center; color: white;">
-        <img src="[profile.jpg](https://i.ibb.co/G35DTM4/Md-Sujon.png)" alt="Profile Image" style="width: 150px; height: 150px; border-radius: 50%; border: 5px solid white;">
+        <img src="https://i.ibb.co/G35DTM4/Md-Sujon.png" alt="Profile Image" style="width: 150px; height: 150px; border-radius: 50%; border: 5px solid white;">
         <h1 style="margin-top: 20px;">Md. Sujon Ali</h1>
         <p>Web Developer</p>
         <div style="margin-top: 20px;">

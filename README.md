@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Md. Sujon Ali.
 #### I am a junior web developer.
 ![I am a junior web developer.](https://i.ibb.co/bdn0SjX/frontend-developer.png)
-[<img src='https://i.ibb.co/ZKdm5h6/react-developer.png' alt='Sujon'>](https://i.ibb.co/bdn0SjX/frontend-developer.png)
+[<img src='https://i.ibb.co/ZKdm5h6/frontend-developer.png' alt='Sujon'>]
 
 I am a junior web developer skilled in HTML5, CSS3, Tailwind, JavaScript, ES6, and React.Js. I am known for my quick learning, problem-solving skills, and disciplined work ethic. I create user-friendly websites that meet users' needs. I stay updated on trends and work with others to make innovative solutions.
 

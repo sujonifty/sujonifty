@@ -1,6 +1,7 @@
 ### Hi there 👋, my name is Md. Sujon Ali.
 #### I am a junior web developer.
 ![I am a junior web developer.](https://i.ibb.co/bdn0SjX/frontend-developer.png)
+[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/bg.jpg?raw=true' alt='Sujon'>](https://i.ibb.co/bdn0SjX/frontend-developer.png)
 
 I am a junior web developer skilled in HTML5, CSS3, Tailwind, JavaScript, ES6, and React.Js. I am known for my quick learning, problem-solving skills, and disciplined work ethic. I create user-friendly websites that meet users' needs. I stay updated on trends and work with others to make innovative solutions.
 
@@ -17,13 +18,16 @@ I am a junior web developer skilled in HTML5, CSS3, Tailwind, JavaScript, ES6, a
 - 👯 I’m looking to collaborate on GitHub. 
 - 💬 Ask me about Web development.
 - ✉️  You can contact me at [sujonifty@gmail.com](mailto:sujonifty@gmail.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujonifty)](https://github.com/anuraghazra/github-readme-stats)
 
-## Reach me out
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sujonifty)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/sujonifty/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/sujonifty.2825)  
+## ☕ Connect with me!
+[<img src='https://github.com/shovoalways/shovoalways/blob/main/img/facebook.png?raw=true' alt='facebook' height='40'>](https://www.facebook.com/sujonifty.2825)   [<img src='https://github.com/shovoalways/shovoalways/blob/main/img/linkedin.png?raw=true' alt='linkedin' height='40'>](https://www.linkedin.com/in/sujonifty/)  
+
+## Acgivement!
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sujonifty)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=sujonifty)](https://github.com/ryo-ma/github-profile-trophy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sujonifty)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sujonifty&show_icons=true&count_private=true)  
 
